@@ -8,7 +8,7 @@
 
 **AI Engineer & Senior Software Engineer at TELUS Digital** &nbsp;·&nbsp; **Founder of [MT Exports](https://mtexports.app)**
 
-San Salvador, El Salvador 🇸🇻 &nbsp;·&nbsp; Permanent resident of Mexico 🇲🇽 — authorized to work in both countries &nbsp;·&nbsp; Remote-first
+San Salvador, El Salvador 🇸🇻 &nbsp;·&nbsp; Permanent resident of Mexico 🇲🇽, authorized to work in both countries &nbsp;·&nbsp; Remote-first
 
 <br/>
 
@@ -28,19 +28,19 @@ San Salvador, El Salvador 🇸🇻 &nbsp;·&nbsp; Permanent resident of Mexico �
 
 <br/>
 
-Senior Full-Stack Software Engineer with **10+ years** of experience designing and shipping production systems, now focused on **applied AI**: LLM applications, agent orchestration and automation pipelines that remove real operational work. I own the whole stack — Python/Django and FastAPI backends, Next.js and Flutter clients, PostgreSQL + pgvector, and the Kubernetes infrastructure they run on — and I treat every technical decision as the business decision it is.
+Senior Full-Stack Software Engineer with **10+ years** of experience designing and shipping production systems, now focused on **applied AI**: LLM applications, agent orchestration and automation pipelines that remove real operational work. I own the whole stack: Python/Django and FastAPI backends, Next.js and Flutter clients, PostgreSQL + pgvector, and the Kubernetes infrastructure they run on. I treat every technical decision as the business decision it is.
 
 <br/>
 
 ## Highlights
 
 - **AI automation at enterprise scale.** At TELUS Digital I led the technical build of an AI-driven PMO automation proof of concept that **cut processing time by 99%** and became the foundation for scaling automation across the organization.
-- **Founder and engineer of [mtexports.app](https://mtexports.app).** A commerce, delivery and services platform connecting the Salvadoran diaspora with local businesses — designed, built and operated end-to-end: web, mobile, backend, payments and infrastructure.
-- **Creator of [ROSE](https://mtexports.app/rose).** A voice-driven AI operating layer for small businesses: it creates departments, assigns specialized AI agents to roles and orchestrates the work — you give the order, your AI team executes.
+- **Founder and engineer of [mtexports.app](https://mtexports.app).** A commerce, delivery and services platform connecting the Salvadoran diaspora with local businesses, designed, built and operated end-to-end: web, mobile, backend, payments and infrastructure.
+- **Creator of [ROSE](https://mtexports.app/rose).** A voice-driven AI operating layer for small businesses: it creates departments, assigns specialized AI agents to roles and orchestrates the work: you give the order, your AI team executes.
 - **Payments and trust engineering.** Stripe and Wompi integrations with escrow ("Pago Protegido"), idempotent webhooks, reconciliation jobs and immutable audit trails, backed by strict payment test suites in CI.
 - **Search and recommendations.** Hybrid SQL ranking over bilingual (ES/EN) indexes with trigram matching and a pgvector semantic fallback, plus a personalized feed driven by real-time interaction signals.
 - **Production ownership.** Kubernetes (MicroK8s) with GitHub Actions CI/CD, Cloudflare Tunnels and Workers for zero-downtime failover, hardware-accelerated HLS video pipelines, and quality gates with Playwright + axe.
-- **Master's in Artificial Intelligence** at UNIR — in progress.
+- **Master's in Artificial Intelligence** at UNIR (in progress).
 
 <br/>
 
@@ -48,9 +48,9 @@ Senior Full-Stack Software Engineer with **10+ years** of experience designing a
 
 | Period | Role | Focus |
 |:--|:--|:--|
-| 2026 – Present | **AI Engineer & Senior Software Engineer** — TELUS Digital | Applied AI and automation for enterprise programs |
-| Present | **Founder & Lead Engineer** — MT Exports | [mtexports.app](https://mtexports.app) · [ROSE](https://mtexports.app/rose) · Flutter mobile app |
-| Previously | **Full-Stack Software Engineer (independent contractor)** — Weris, Delightful Services, Gosen and other companies | 10+ years of web, mobile and backend product engineering for client companies, from architecture to delivery |
+| 2026 - Present | **AI Engineer & Senior Software Engineer**, TELUS Digital | Applied AI and automation for enterprise programs |
+| Present | **Founder & Lead Engineer**, MT Exports | [mtexports.app](https://mtexports.app) · [ROSE](https://mtexports.app/rose) · Flutter mobile app |
+| Previously | **Full-Stack Software Engineer (independent contractor)**, Weris, Delightful Services, Gosen and other companies | 10+ years of web, mobile and backend product engineering for client companies, from architecture to delivery |
 
 <br/>
 
@@ -60,7 +60,7 @@ Senior Full-Stack Software Engineer with **10+ years** of experience designing a
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://mtexports.app">mtexports.app</a></h3>
-      <p>Commerce, delivery and services for El Salvador and its diaspora — one platform for online shopping, local vendors, package delivery and drivers.</p>
+      <p>Commerce, delivery and services for El Salvador and its diaspora: one platform for online shopping, local vendors, package delivery and drivers.</p>
       <ul>
         <li>Marketplace with vendor storefronts, video showcases and faceted, paginated catalog</li>
         <li><b>Pago Protegido</b>: escrow payments with automatic release (Wompi &amp; Stripe)</li>
@@ -171,27 +171,27 @@ Senior Full-Stack Software Engineer with **10+ years** of experience designing a
 
 ## Education & Certifications
 
-- **M.Sc. in Artificial Intelligence** — UNIR, Universidad Internacional de La Rioja *(in progress)*
-- **Scrum Foundation Professional Certificate (SFPC)** — CertiProf, 2023
-- **Google UX Design** — Google, 2023
-- **UI Design** — University of Minnesota, 2023
-- **Full Stack Developer** — KODIGO, 2023
+- **M.Sc. in Artificial Intelligence**, UNIR, Universidad Internacional de La Rioja *(in progress)*
+- **Scrum Foundation Professional Certificate (SFPC)**, CertiProf, 2023
+- **Google UX Design**, Google, 2023
+- **UI Design**, University of Minnesota, 2023
+- **Full Stack Developer**, KODIGO, 2023
 
 <br/>
 
 ## What Colleagues Say
 
 > "Sharp, dependable, and focused on outcomes."
-> — **Jose Portillo**, on the TELUS Digital PMO automation initiative
+> **Jose Portillo**, on the TELUS Digital PMO automation initiative
 
-Teammates consistently point to the same two things: speed from a high-level idea to a working, high-quality first version — often within a day — and the judgment to navigate complexity and ambiguity without close supervision.
+Teammates consistently point to the same two things: speed from a high-level idea to a working, high-quality first version, often within a day, and the judgment to navigate complexity and ambiguity without close supervision.
 
 <br/>
 
 ## Writing & Community
 
-- **LinkedIn** — building in public: architecture decisions, the bugs that almost shipped, and lessons from running a real platform with a small footprint → [follow along](https://www.linkedin.com/in/christian-barillas-8795a1236/)
-- **YouTube** — tutorials and devlogs in Spanish on Python, JavaScript, web and mobile development → [@christianbarillas664](https://www.youtube.com/@christianbarillas664)
+- **LinkedIn**: building in public: architecture decisions, the bugs that almost shipped, and lessons from running a real platform with a small footprint → [follow along](https://www.linkedin.com/in/christian-barillas-8795a1236/)
+- **YouTube**: tutorials and devlogs in Spanish on Python, JavaScript, web and mobile development → [@christianbarillas664](https://www.youtube.com/@christianbarillas664)
 
 <br/>
 
@@ -208,7 +208,7 @@ Teammates consistently point to the same two things: speed from a high-level ide
 
 <br/>
 
-<sub><b>Restarting my LeetCode practice from zero</b> — the goal is a large, consistent body of solved problems and a contest rating by the end of the year, tracked here in the open. Most of my production work lives in private repositories under <a href="https://github.com/mtexports-app">@mtexports-app</a>.</sub>
+<sub><b>Restarting my LeetCode practice from zero</b>: the goal is a large, consistent body of solved problems and a contest rating by the end of the year, tracked here in the open. Most of my production work lives in private repositories under <a href="https://github.com/mtexports-app">@mtexports-app</a>.</sub>
 
 </div>
 
@@ -220,7 +220,7 @@ Teammates consistently point to the same two things: speed from a high-level ide
 
 Open to conversations about **AI systems in production**, **Django at scale**, **self-hosted infrastructure** and building products for Latin America.
 
-**Open to senior engineering and AI roles** — remote, or on-site in El Salvador 🇸🇻 and Mexico 🇲🇽 (permanent resident, no sponsorship needed). Available for full-time and contract engagements.
+**Open to senior engineering and AI roles**: remote, or on-site in El Salvador 🇸🇻 and Mexico 🇲🇽 (permanent resident, no sponsorship needed). Available for full-time and contract engagements.
 
 <br/>
 
