@@ -21,6 +21,8 @@ San Salvador, El Salvador 🇸🇻 &nbsp;·&nbsp; Permanent resident of Mexico �
 <a href="https://www.facebook.com/cristian.barillas.7923"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 &nbsp;
 <a href="https://www.instagram.com/christian.barillasoficial/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+&nbsp;
+<a href="https://x.com/MtexportsApp"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (MtexportsApp)" /></a>
 
 </div>
 
@@ -231,6 +233,8 @@ Open to conversations about **AI systems in production**, **Django at scale**, *
 <a href="https://www.facebook.com/cristian.barillas.7923"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 &nbsp;
 <a href="https://www.instagram.com/christian.barillasoficial/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+&nbsp;
+<a href="https://x.com/MtexportsApp"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (MtexportsApp)" /></a>
 
 <br/><br/>
 
