@@ -20,7 +20,7 @@
 &nbsp;
 <a href="https://www.facebook.com/cristian.barillas.7923"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 &nbsp;
-<a href="https://www.instagram.com/christianbarillasoficial/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.instagram.com/christian.barillasoficial/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 </div>
 
@@ -226,7 +226,7 @@ Open to conversations about **AI systems in production**, **Django at scale**, *
 &nbsp;
 <a href="https://www.facebook.com/cristian.barillas.7923"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 &nbsp;
-<a href="https://www.instagram.com/christianbarillasoficial/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.instagram.com/christian.barillasoficial/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 <br/><br/>
 
