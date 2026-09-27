@@ -28,7 +28,7 @@ San Salvador, El Salvador 🇸🇻 &nbsp;·&nbsp; Permanent resident of Mexico �
 
 <br/>
 
-Senior Full-Stack Software Engineer with **10+ years** of experience designing and shipping production systems, now focused on **applied AI**: LLM applications, agent orchestration and automation pipelines that remove real operational work. I own the whole stack: Python/Django and FastAPI backends, Next.js and Flutter clients, PostgreSQL + pgvector, and the Kubernetes infrastructure they run on. I treat every technical decision as the business decision it is.
+Senior Full-Stack Software Engineer with **10+ years** of experience designing and shipping production systems, now focused on **applied AI**: LLM applications, agent orchestration and automation pipelines that remove real operational work. I own the whole stack: Python/Django and FastAPI backends, Next.js and Flutter clients, PostgreSQL + pgvector, and the infrastructure they run on, whether Google Cloud, AWS or self-managed Kubernetes. I treat every technical decision as the business decision it is.
 
 <br/>
 
@@ -39,7 +39,7 @@ Senior Full-Stack Software Engineer with **10+ years** of experience designing a
 - **Creator of [ROSE](https://mtexports.app/rose).** A voice-driven AI operating layer for small businesses: it creates departments, assigns specialized AI agents to roles and orchestrates the work: you give the order, your AI team executes.
 - **Payments and trust engineering.** Stripe and Wompi integrations with escrow ("Pago Protegido"), idempotent webhooks, reconciliation jobs and immutable audit trails, backed by strict payment test suites in CI.
 - **Search and recommendations.** Hybrid SQL ranking over bilingual (ES/EN) indexes with trigram matching and a pgvector semantic fallback, plus a personalized feed driven by real-time interaction signals.
-- **Production ownership.** Kubernetes (MicroK8s) with GitHub Actions CI/CD, Cloudflare Tunnels and Workers for zero-downtime failover, hardware-accelerated HLS video pipelines, and quality gates with Playwright + axe.
+- **Production ownership, cloud and self-managed.** Deployments on Google Cloud and AWS as well as self-managed Kubernetes (MicroK8s), with GitHub Actions CI/CD, Cloudflare Tunnels and Workers for zero-downtime failover, hardware-accelerated HLS video pipelines, and quality gates with Playwright + axe.
 - **Master's in Artificial Intelligence** at UNIR (in progress).
 
 <br/>
@@ -139,6 +139,8 @@ Senior Full-Stack Software Engineer with **10+ years** of experience designing a
   <tr>
     <td width="33%" valign="top">
       <b>Infrastructure &amp; DevOps</b><br/><br/>
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+      <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=flat-square&labelColor=232F3E&logoColor=white" alt="AWS" />
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
