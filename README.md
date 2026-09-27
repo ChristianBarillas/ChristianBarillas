@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F06024,100:ff8a5b&height=150&section=header" width="100%" alt="" />
+<img src="assets/banner.png" width="100%" alt="mtexports.app: software and AI systems, designed and built end to end" />
 
 # Christian Barillas
-
-### Senior Software Engineer &nbsp;·&nbsp; AI Engineer
 
 **AI Engineer & Senior Software Engineer at TELUS Digital** &nbsp;·&nbsp; **Founder of [MT Exports](https://mtexports.app)**
 
