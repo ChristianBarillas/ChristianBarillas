@@ -6,7 +6,9 @@
 
 ### Senior Software Engineer &nbsp;·&nbsp; AI Engineer
 
-**AI Engineer & Senior Software Engineer at TELUS Digital** &nbsp;·&nbsp; **Founder of [MT Exports](https://mtexports.app)** &nbsp;·&nbsp; San Salvador, El Salvador 🇸🇻
+**AI Engineer & Senior Software Engineer at TELUS Digital** &nbsp;·&nbsp; **Founder of [MT Exports](https://mtexports.app)**
+
+San Salvador, El Salvador 🇸🇻 &nbsp;·&nbsp; Permanent resident of Mexico 🇲🇽 — authorized to work in both countries &nbsp;·&nbsp; Remote-first
 
 <br/>
 
@@ -48,7 +50,7 @@ Senior Full-Stack Software Engineer with **10+ years** of experience designing a
 |:--|:--|:--|
 | 2026 – Present | **AI Engineer & Senior Software Engineer** — TELUS Digital | Applied AI and automation for enterprise programs |
 | Present | **Founder & Lead Engineer** — MT Exports | [mtexports.app](https://mtexports.app) · [ROSE](https://mtexports.app/rose) · Flutter mobile app |
-| Previously | **Full-Stack Software Engineer** — 10+ years | Web, mobile and backend product engineering |
+| Previously | **Full-Stack Software Engineer (independent contractor)** — Weris, Delightful Services, Gosen and other companies | 10+ years of web, mobile and backend product engineering for client companies, from architecture to delivery |
 
 <br/>
 
@@ -217,6 +219,8 @@ Teammates consistently point to the same two things: speed from a high-level ide
 <div align="center">
 
 Open to conversations about **AI systems in production**, **Django at scale**, **self-hosted infrastructure** and building products for Latin America.
+
+**Open to senior engineering and AI roles** — remote, or on-site in El Salvador 🇸🇻 and Mexico 🇲🇽 (permanent resident, no sponsorship needed). Available for full-time and contract engagements.
 
 <br/>
 
