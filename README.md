@@ -17,6 +17,10 @@
 <a href="https://mtexports.app"><img src="https://img.shields.io/badge/mtexports.app-111827?style=for-the-badge&logoColor=white" alt="mtexports.app" /></a>
 &nbsp;
 <a href="https://www.youtube.com/@christianbarillas664"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+&nbsp;
+<a href="https://www.facebook.com/cristian.barillas.7923"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+&nbsp;
+<a href="https://www.instagram.com/christianbarillasoficial/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 </div>
 
@@ -219,6 +223,10 @@ Open to conversations about **AI systems in production**, **Django at scale**, *
 <a href="https://www.linkedin.com/in/christian-barillas-8795a1236/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
 <a href="https://christianbarillas.mtexports.app/contact"><img src="https://img.shields.io/badge/Contact_me-F06024?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact" /></a>
+&nbsp;
+<a href="https://www.facebook.com/cristian.barillas.7923"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+&nbsp;
+<a href="https://www.instagram.com/christianbarillasoficial/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 <br/><br/>
 
