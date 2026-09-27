@@ -34,7 +34,7 @@ Senior Full-Stack Software Engineer with **10+ years** of experience designing a
 
 ## Highlights
 
-- **AI automation at enterprise scale.** At TELUS Digital I led the technical build of an AI-driven PMO automation proof of concept that **cut processing time by 99%** and became the foundation for scaling automation across the organization.
+- **AI automation for Google, at TELUS Digital.** Served as the AI Engineer driving the technical build of the **Google PMO automation initiative**: the proof of concept **cut processing time by 99%** and became the foundation for scaling automation across all of TELUS Digital. Also delivered an engineering solution for the **GFiber (Google Fiber)** program.
 - **Founder and engineer of [mtexports.app](https://mtexports.app).** A commerce, delivery and services platform connecting the Salvadoran diaspora with local businesses, designed, built and operated end-to-end: web, mobile, backend, payments and infrastructure.
 - **Creator of [ROSE](https://mtexports.app/rose).** A voice-driven AI operating layer for small businesses: it creates departments, assigns specialized AI agents to roles and orchestrates the work: you give the order, your AI team executes.
 - **Payments and trust engineering.** Stripe and Wompi integrations with escrow ("Pago Protegido"), idempotent webhooks, reconciliation jobs and immutable audit trails, backed by strict payment test suites in CI.
@@ -48,7 +48,7 @@ Senior Full-Stack Software Engineer with **10+ years** of experience designing a
 
 | Period | Role | Focus |
 |:--|:--|:--|
-| 2026 - Present | **AI Engineer & Senior Software Engineer**, TELUS Digital | Applied AI and automation for enterprise programs |
+| 2026 - Present | **AI Engineer & Senior Software Engineer**, TELUS Digital | Google PMO automation initiative (AI Engineer, led the technical build) and the GFiber program |
 | Present | **Founder & Lead Engineer**, MT Exports | [mtexports.app](https://mtexports.app) · [ROSE](https://mtexports.app/rose) · Flutter mobile app |
 | Previously | **Full-Stack Software Engineer (independent contractor)**, Weris, Delightful Services, Gosen and other companies | 10+ years of web, mobile and backend product engineering for client companies, from architecture to delivery |
 
@@ -182,9 +182,9 @@ Senior Full-Stack Software Engineer with **10+ years** of experience designing a
 ## What Colleagues Say
 
 > "Sharp, dependable, and focused on outcomes."
-> **Jose Portillo**, on the TELUS Digital PMO automation initiative
+> **Jose Portillo**, Global Director, CX AI Advisory at TELUS Digital, who managed Christian directly on the Google PMO automation initiative
 
-Teammates consistently point to the same two things: speed from a high-level idea to a working, high-quality first version, often within a day, and the judgment to navigate complexity and ambiguity without close supervision.
+**João Morossini, PMP**, points to the same two things: speed from a high-level idea to a working, high-quality first version, often within a day, and the judgment to navigate complexity and ambiguity without close supervision.
 
 <br/>
 
